@@ -1,0 +1,136 @@
+ID_Venda,Data,Produto,Preco_Unitario,Quantidade,Desconto_Pct,Nota_Cliente,Idade_Cliente,Cidade,Forma_Pagamento,Valor_Total
+V001,2025-01-03,iPhone 15,7299.99,1,0.0,4.5,32,São Paulo,Pix,7299.99
+V002,2025-01-04,MacBook Air,9500.00,1,5.0,4.8,28,São Paulo,Cartão Crédito,9025.00
+V003,05/01/2025,Galaxy S24,3500.00,2,,4.2,45,Belo Horizonte,Pix,7000.00
+V004, 06/01/2025 ,AirPods Pro,1899.00,3,10.0,4.6,29,Santo André,Cartão Débito,5127.30
+V005,2025-01-07,macbook air,9500.00,2,0.0,4.9,35,Rio de Janeiro,Boleto,19000.00
+V006,08-01-2025,iPhone 15,7299.99,,0.0,4.4,41,São Paulo,Pix,7299.99
+V007,2025-01-09,Xiaomi 13,2800.50,4,5.0,4.1,,São Paulo,Cartão Crédito,10641.90
+V008,10/01/2025,PlayStation 5,4999.00,1,0.0,4.7,33,Belo Horizonte,Pix,4999.00
+V009,2025-01-11,MacBook Air,9500.00,1,8.0,4.8,38,Santo André,,8740.00
+V010,12/01/2025,iPhone 15,7299.99,2,0.0,4.3,27,Rio de Janeiro,Pix,14599.98
+V011,2025-01-13,Galaxy S24,3500.00,1,5.0,4.5,52,São Paulo,Cartão Crédito,3325.00
+V012,14/01/2025,AirPods Pro,1899.00,2,0.0,4.6,31,São Paulo,Pix,3798.00
+V013,2025-01-15,xiaomi 13,2800.50,2,10.0,4.0,24,Belo Horizonte,Boleto,5040.90
+V014,16/01/2025,PlayStation 5,4999.00,1,0.0,4.5,29,Santo André,Cartão Débito,4999.00
+V015,2025-01-17,MacBook Air,9500.00,3,5.0,4.9,42,Rio de Janeiro,Pix,27075.00
+V016,18/01/2025,iPhone 15,7299.99,1,0.0,4.4,35,São Paulo,Cartão Crédito,7299.99
+V017,2025-01-19,Galaxy S24,3500.00,1,0.0,4.3,48,Belo Horizonte,,3500.00
+V018,20/01/2025,AirPods Pro,1899.00,2,5.0,4.7,26,Santo André,Pix,3608.10
+V019,2025-01-21,Xiaomi 13,2800.50,3,0.0,4.1,30,Rio de Janeiro,Boleto,8401.50
+V020,22/01/2025,PlayStation 5,4999.00,1,10.0,4.6,34,São Paulo,Pix,4499.10
+V021,2025-01-23,iPhone 15,7299.99,1,0.0,4.5,28,São Paulo,Cartão Débito,7299.99
+V022,24/01/2025,macbook air,9500.00,2,5.0,4.8,39,São Paulo,Pix,18050.00
+V023,2025-01-25,Galaxy S24,3500.00,1,0.0,4.2,45,Belo Horizonte,Cartão Crédito,3500.00
+V024,26/01/2025,AirPods Pro,1899.00,1,8.0,4.6,31,Santo André,Pix,1747.08
+V025,2025-01-27,Xiaomi 13,2800.50,2,0.0,4.0,27,Rio de Janeiro,Boleto,5601.00
+V026,28/01/2025,PlayStation 5,4999.00,2,5.0,4.7,33,São Paulo,Pix,9498.10
+V027,2025-01-29,iPhone 15,7299.99,1,0.0,4.4,41,São Paulo,Cartão Crédito,7299.99
+V028,30/01/2025,MacBook Air,9500.00,1,0.0,4.9,38,São Paulo,Pix,9500.00
+V029,2025-01-31,Galaxy S24,3500.00,3,10.0,4.3,52,Belo Horizonte,Boleto,9450.00
+V030,01/02/2025,AirPods Pro,1899.00,2,0.0,4.5,29,Santo André,Cartão Débito,3798.00
+V031,2025-02-02,Xiaomi 13,2800.50,1,5.0,4.1,26,Rio de Janeiro,Pix,2660.48
+V032,03/02/2025,PlayStation 5,4999.00,1,0.0,4.6,34,São Paulo,Pix,4999.00
+V033,2025-02-04,iPhone 15,7299.99,2,5.0,4.5,32,São Paulo,Cartão Crédito,13869.98
+V034,05/02/2025,MacBook Air,9500.00,1,0.0,4.8,35,São Paulo,,9500.00
+V035,2025-02-06,Galaxy S24,3500.00,2,8.0,4.2,45,Belo Horizonte,Boleto,6440.00
+V036,07/02/2025,AirPods Pro,1899.00,3,0.0,4.6,31,Santo André,Pix,5697.00
+V037,2025-02-08,Xiaomi 13,2800.50,1,5.0,4.0,27,Rio de Janeiro,Cartão Débito,2660.48
+V038,09/02/2025,PlayStation 5,4999.00,1,0.0,4.7,33,São Paulo,Pix,4999.00
+V039,2025-02-10,iPhone 15,7299.99,,0.0,4.4,41,São Paulo,Cartão Crédito,7299.99
+V040,11/02/2025,MacBook Air,9500.00,2,10.0,4.9,38,São Paulo,Pix,17100.00
+V041,2025-02-12,Galaxy S24,3500.00,1,0.0,4.3,52,Belo Horizonte,Boleto,3500.00
+V042,13/02/2025,AirPods Pro,1899.00,2,5.0,4.5,29,Santo André,Pix,3608.10
+V043,2025-02-14,Xiaomi 13,2800.50,3,0.0,4.1,26,Rio de Janeiro,Cartão Débito,8401.50
+V044,15/02/2025,PlayStation 5,4999.00,1,5.0,4.6,34,São Paulo,Pix,4749.05
+V045,2025-02-16,iPhone 15,7299.99,1,0.0,4.5,32,São Paulo,,7299.99
+V046,17/02/2025,MacBook Air,9500.00,2,0.0,4.8,39,São Paulo,Boleto,19000.00
+V047,2025-02-18,Galaxy S24,3500.00,1,5.0,4.2,45,Belo Horizonte,Pix,3325.00
+V048,19/02/2025,AirPods Pro,1899.00,1,0.0,4.6,31,Santo André,Cartão Crédito,1899.00
+V049,2025-02-20,Xiaomi 13,2800.50,2,10.0,4.0,27,Rio de Janeiro,Pix,5040.90
+V050,21/02/2025,PlayStation 5,4999.00,1,0.0,4.7,33,São Paulo,Pix,4999.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
