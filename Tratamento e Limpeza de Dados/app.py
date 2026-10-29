@@ -40,4 +40,5 @@ df['Forma_Pagamento'] = df['Forma_Pagamento'].fillna(moda)
 df['Valor_Total'] = df['Preco_Unitario'] * df['Quantidade'] * (1 - df['Desconto_Pct']/100)
 print(df.isna().sum()) #Colunas limpas
 
+#Criar a tabela limpa
 df.to_csv("Tabela_Limpa.csv")
